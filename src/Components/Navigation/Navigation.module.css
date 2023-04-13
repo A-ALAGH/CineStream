@@ -1,0 +1,27 @@
+.navigation {
+    display: flex;
+    height: 68px;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    margin: 0, 40px;
+}
+.navigationList{
+    list-style: none;
+    margin: 0;
+    padding: 0%;
+    display: flex;
+    color: white;
+}
+.navigationItem{
+    margin-left: 1rem;
+    align-items: center;
+    font-size: 0.9rem;
+    display: flex;
+}
+.logo{
+    width: 200px;
+}
