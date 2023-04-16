@@ -1,4 +1,8 @@
 .Titles {
-    background-color: red;
     z-index: -1;
+}
+p{
+    color: white;
+    font-weight: bold;
+    font-size: 0.8
 }

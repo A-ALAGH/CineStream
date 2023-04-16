@@ -1,0 +1,9 @@
+.row{
+    display: flex;
+    overflow-x: hidden;
+    margin-bottom: 1.5rem;
+}
+.row img{
+    margin-right: 0.6rem;
+    border-radius: 4px;
+}
